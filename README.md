@@ -27,7 +27,6 @@ A full-stack personal finance tracker built with **React, Node.js, Express, and 
 
 **Database**
 - MongoDB
-- Mongoose
 
 **Development Tools**
 - Git
